@@ -1,0 +1,188 @@
+// !$*UTF8*$!
+{
+	0B23B7310FD88E8700DE6D87 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ChurchBellAppDelegate.m */;
+		name = "ChurchBellAppDelegate.m: 8";
+		rLen = 0;
+		rLoc = 159;
+		rType = 0;
+		vrLen = 1118;
+		vrLoc = 0;
+	};
+	0B23B7330FD88E8700DE6D87 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ChurchBellViewController.h */;
+		name = "ChurchBellViewController.h: 26";
+		rLen = 0;
+		rLoc = 502;
+		rType = 0;
+		vrLen = 621;
+		vrLoc = 97;
+	};
+	0B23B7430FD891D900DE6D87 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ChurchBellViewController.m */;
+		name = "ChurchBellViewController.m: 58";
+		rLen = 741;
+		rLoc = 2894;
+		rType = 0;
+		vrLen = 2827;
+		vrLoc = 814;
+	};
+	0B23B7440FD891D900DE6D87 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ChurchBellAppDelegate.m */;
+		name = "ChurchBellAppDelegate.m: 9";
+		rLen = 950;
+		rLoc = 160;
+		rType = 0;
+		vrLen = 1209;
+		vrLoc = 0;
+	};
+	0B23B7450FD891D900DE6D87 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ChurchBellViewController.h */;
+		name = "ChurchBellViewController.h: 8";
+		rLen = 0;
+		rLoc = 180;
+		rType = 0;
+		vrLen = 558;
+		vrLoc = 0;
+	};
+	0B82CCA20FD877950094A8FC /* ChurchBell */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ChurchBell;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	0B82CCAE0FD8779A0094A8FC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	0B82CCAF0FD8779A0094A8FC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	0B82CD6B0FD87AE50094A8FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ChurchBellViewController.m */;
+		name = "ChurchBellViewController.m: 26";
+		rLen = 0;
+		rLoc = 3635;
+		rType = 0;
+		vrLen = 491;
+		vrLoc = 49;
+	};
+	1D3623240D0F684500981E51 /* ChurchBellAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {768, 676}}";
+			sepNavSelRange = "{161, 0}";
+			sepNavVisRange = "{0, 365}";
+			sepNavWindowFrame = "{{61, 319}, {827, 812}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ChurchBellAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {768, 742}}";
+			sepNavSelRange = "{160, 950}";
+			sepNavVisRange = "{0, 1209}";
+			sepNavWindowFrame = "{{89, 152}, {827, 812}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ChurchBell */ = {
+		activeExec = 0;
+		executables = (
+			0B82CCA20FD877950094A8FC /* ChurchBell */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ChurchBellViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {676, 404}}";
+			sepNavSelRange = "{180, 0}";
+			sepNavVisRange = "{0, 558}";
+			sepNavWindowFrame = "{{13, 344}, {735, 517}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ChurchBellViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {723, 1198}}";
+			sepNavSelRange = "{2894, 741}";
+			sepNavVisRange = "{814, 2827}";
+			sepNavWindowFrame = "{{1040, 257}, {782, 921}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 0B82CCA20FD877950094A8FC /* ChurchBell */;
+		activeSDKPreference = iphonesimulator3.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ChurchBell */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ChurchBell */,
+		);
+		codeSenseManager = 0B82CCAF0FD8779A0094A8FC /* Code sense */;
+		executables = (
+			0B82CCA20FD877950094A8FC /* ChurchBell */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					134,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 265845482;
+			PBXWorkspaceStateSaveDate = 265845482;
+		};
+		perUserProjectItems = {
+			0B23B7310FD88E8700DE6D87 /* PBXTextBookmark */ = 0B23B7310FD88E8700DE6D87 /* PBXTextBookmark */;
+			0B23B7330FD88E8700DE6D87 /* PBXTextBookmark */ = 0B23B7330FD88E8700DE6D87 /* PBXTextBookmark */;
+			0B23B7430FD891D900DE6D87 /* PBXTextBookmark */ = 0B23B7430FD891D900DE6D87 /* PBXTextBookmark */;
+			0B23B7440FD891D900DE6D87 /* PBXTextBookmark */ = 0B23B7440FD891D900DE6D87 /* PBXTextBookmark */;
+			0B23B7450FD891D900DE6D87 /* PBXTextBookmark */ = 0B23B7450FD891D900DE6D87 /* PBXTextBookmark */;
+			0B82CD6B0FD87AE50094A8FC /* PBXTextBookmark */ = 0B82CD6B0FD87AE50094A8FC /* PBXTextBookmark */;
+		};
+		sourceControlManager = 0B82CCAE0FD8779A0094A8FC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

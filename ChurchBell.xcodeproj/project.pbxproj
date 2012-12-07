@@ -1,0 +1,354 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0B23B6CF0FD87B5B00DE6D87 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0B23B6CE0FD87B5B00DE6D87 /* AudioToolbox.framework */; };
+		0B82CCBE0FD877D60094A8FC /* A#.aif in Resources */ = {isa = PBXBuildFile; fileRef = 0B82CCB10FD877D60094A8FC /* A#.aif */; };
+		0B82CCBF0FD877D60094A8FC /* A.aif in Resources */ = {isa = PBXBuildFile; fileRef = 0B82CCB20FD877D60094A8FC /* A.aif */; };
+		0B82CCC00FD877D60094A8FC /* B.aif in Resources */ = {isa = PBXBuildFile; fileRef = 0B82CCB30FD877D60094A8FC /* B.aif */; };
+		0B82CCC10FD877D60094A8FC /* C#.aif in Resources */ = {isa = PBXBuildFile; fileRef = 0B82CCB40FD877D60094A8FC /* C#.aif */; };
+		0B82CCC20FD877D60094A8FC /* C4.aif in Resources */ = {isa = PBXBuildFile; fileRef = 0B82CCB50FD877D60094A8FC /* C4.aif */; };
+		0B82CCC30FD877D60094A8FC /* C5.aif in Resources */ = {isa = PBXBuildFile; fileRef = 0B82CCB60FD877D60094A8FC /* C5.aif */; };
+		0B82CCC40FD877D60094A8FC /* D#.aif in Resources */ = {isa = PBXBuildFile; fileRef = 0B82CCB70FD877D60094A8FC /* D#.aif */; };
+		0B82CCC50FD877D60094A8FC /* D.aif in Resources */ = {isa = PBXBuildFile; fileRef = 0B82CCB80FD877D60094A8FC /* D.aif */; };
+		0B82CCC60FD877D60094A8FC /* E.aif in Resources */ = {isa = PBXBuildFile; fileRef = 0B82CCB90FD877D60094A8FC /* E.aif */; };
+		0B82CCC70FD877D60094A8FC /* F#.aif in Resources */ = {isa = PBXBuildFile; fileRef = 0B82CCBA0FD877D60094A8FC /* F#.aif */; };
+		0B82CCC80FD877D60094A8FC /* F.aif in Resources */ = {isa = PBXBuildFile; fileRef = 0B82CCBB0FD877D60094A8FC /* F.aif */; };
+		0B82CCC90FD877D60094A8FC /* G#.aif in Resources */ = {isa = PBXBuildFile; fileRef = 0B82CCBC0FD877D60094A8FC /* G#.aif */; };
+		0B82CCCA0FD877D60094A8FC /* G.aif in Resources */ = {isa = PBXBuildFile; fileRef = 0B82CCBD0FD877D60094A8FC /* G.aif */; };
+		1D3623260D0F684500981E51 /* ChurchBellAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* ChurchBellAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
+		2899E5220DE3E06400AC0155 /* ChurchBellViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* ChurchBellViewController.xib */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		28D7ACF80DDB3853001CB0EB /* ChurchBellViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* ChurchBellViewController.m */; };
+		5A1EFFAD166633790054B483 /* libRscMgrUniv.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A1EFFAC166633790054B483 /* libRscMgrUniv.a */; };
+		5A1EFFB7166648C70054B483 /* ExternalAccessory.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A1EFFB6166648C70054B483 /* ExternalAccessory.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0B23B6CE0FD87B5B00DE6D87 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		0B82CCB10FD877D60094A8FC /* A#.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = "A#.aif"; sourceTree = "<group>"; };
+		0B82CCB20FD877D60094A8FC /* A.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = A.aif; sourceTree = "<group>"; };
+		0B82CCB30FD877D60094A8FC /* B.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = B.aif; sourceTree = "<group>"; };
+		0B82CCB40FD877D60094A8FC /* C#.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = "C#.aif"; sourceTree = "<group>"; };
+		0B82CCB50FD877D60094A8FC /* C4.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = C4.aif; sourceTree = "<group>"; };
+		0B82CCB60FD877D60094A8FC /* C5.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = C5.aif; sourceTree = "<group>"; };
+		0B82CCB70FD877D60094A8FC /* D#.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = "D#.aif"; sourceTree = "<group>"; };
+		0B82CCB80FD877D60094A8FC /* D.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = D.aif; sourceTree = "<group>"; };
+		0B82CCB90FD877D60094A8FC /* E.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = E.aif; sourceTree = "<group>"; };
+		0B82CCBA0FD877D60094A8FC /* F#.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = "F#.aif"; sourceTree = "<group>"; };
+		0B82CCBB0FD877D60094A8FC /* F.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = F.aif; sourceTree = "<group>"; };
+		0B82CCBC0FD877D60094A8FC /* G#.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = "G#.aif"; sourceTree = "<group>"; };
+		0B82CCBD0FD877D60094A8FC /* G.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = G.aif; sourceTree = "<group>"; };
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* ChurchBellAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChurchBellAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* ChurchBellAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChurchBellAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* ChurchBell.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChurchBell.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		2899E5210DE3E06400AC0155 /* ChurchBellViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ChurchBellViewController.xib; sourceTree = "<group>"; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		28D7ACF60DDB3853001CB0EB /* ChurchBellViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChurchBellViewController.h; sourceTree = "<group>"; };
+		28D7ACF70DDB3853001CB0EB /* ChurchBellViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChurchBellViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* ChurchBell_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChurchBell_Prefix.pch; sourceTree = "<group>"; };
+		5A1EFFAA1666336F0054B483 /* redparkSerial.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = redparkSerial.h; sourceTree = "<group>"; };
+		5A1EFFAB1666336F0054B483 /* RscMgr.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RscMgr.h; sourceTree = "<group>"; };
+		5A1EFFAC166633790054B483 /* libRscMgrUniv.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libRscMgrUniv.a; sourceTree = "<group>"; };
+		5A1EFFB6166648C70054B483 /* ExternalAccessory.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ExternalAccessory.framework; path = System/Library/Frameworks/ExternalAccessory.framework; sourceTree = SDKROOT; };
+		8D1107310486CEB800E47090 /* ChurchBell-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "ChurchBell-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5A1EFFB7166648C70054B483 /* ExternalAccessory.framework in Frameworks */,
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+				0B23B6CF0FD87B5B00DE6D87 /* AudioToolbox.framework in Frameworks */,
+				5A1EFFAD166633790054B483 /* libRscMgrUniv.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623240D0F684500981E51 /* ChurchBellAppDelegate.h */,
+				1D3623250D0F684500981E51 /* ChurchBellAppDelegate.m */,
+				28D7ACF60DDB3853001CB0EB /* ChurchBellViewController.h */,
+				28D7ACF70DDB3853001CB0EB /* ChurchBellViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		0B82CCB00FD877D60094A8FC /* sound */ = {
+			isa = PBXGroup;
+			children = (
+				0B82CCB10FD877D60094A8FC /* A#.aif */,
+				0B82CCB20FD877D60094A8FC /* A.aif */,
+				0B82CCB30FD877D60094A8FC /* B.aif */,
+				0B82CCB40FD877D60094A8FC /* C#.aif */,
+				0B82CCB50FD877D60094A8FC /* C4.aif */,
+				0B82CCB60FD877D60094A8FC /* C5.aif */,
+				0B82CCB70FD877D60094A8FC /* D#.aif */,
+				0B82CCB80FD877D60094A8FC /* D.aif */,
+				0B82CCB90FD877D60094A8FC /* E.aif */,
+				0B82CCBA0FD877D60094A8FC /* F#.aif */,
+				0B82CCBB0FD877D60094A8FC /* F.aif */,
+				0B82CCBC0FD877D60094A8FC /* G#.aif */,
+				0B82CCBD0FD877D60094A8FC /* G.aif */,
+			);
+			path = sound;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* ChurchBell.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				5A1EFFB6166648C70054B483 /* ExternalAccessory.framework */,
+				5A1EFFA8166633250054B483 /* Redpark Serial SDK */,
+				080E96DDFE201D6D7F000001 /* Classes */,
+				0B82CCB00FD877D60094A8FC /* sound */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* ChurchBell_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				2899E5210DE3E06400AC0155 /* ChurchBellViewController.xib */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* ChurchBell-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
+				0B23B6CE0FD87B5B00DE6D87 /* AudioToolbox.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		5A1EFFA8166633250054B483 /* Redpark Serial SDK */ = {
+			isa = PBXGroup;
+			children = (
+				5A1EFFAA1666336F0054B483 /* redparkSerial.h */,
+				5A1EFFAB1666336F0054B483 /* RscMgr.h */,
+				5A1EFFAC166633790054B483 /* libRscMgrUniv.a */,
+			);
+			name = "Redpark Serial SDK";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* ChurchBell */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "ChurchBell" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ChurchBell;
+			productName = ChurchBell;
+			productReference = 1D6058910D05DD3D006BFB54 /* ChurchBell.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "ChurchBell" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* ChurchBell */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				2899E5220DE3E06400AC0155 /* ChurchBellViewController.xib in Resources */,
+				0B82CCBE0FD877D60094A8FC /* A#.aif in Resources */,
+				0B82CCBF0FD877D60094A8FC /* A.aif in Resources */,
+				0B82CCC00FD877D60094A8FC /* B.aif in Resources */,
+				0B82CCC10FD877D60094A8FC /* C#.aif in Resources */,
+				0B82CCC20FD877D60094A8FC /* C4.aif in Resources */,
+				0B82CCC30FD877D60094A8FC /* C5.aif in Resources */,
+				0B82CCC40FD877D60094A8FC /* D#.aif in Resources */,
+				0B82CCC50FD877D60094A8FC /* D.aif in Resources */,
+				0B82CCC60FD877D60094A8FC /* E.aif in Resources */,
+				0B82CCC70FD877D60094A8FC /* F#.aif in Resources */,
+				0B82CCC80FD877D60094A8FC /* F.aif in Resources */,
+				0B82CCC90FD877D60094A8FC /* G#.aif in Resources */,
+				0B82CCCA0FD877D60094A8FC /* G.aif in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* ChurchBellAppDelegate.m in Sources */,
+				28D7ACF80DDB3853001CB0EB /* ChurchBellViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: SO MATSUDA (NH8BBTA84Z)";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = ChurchBell_Prefix.pch;
+				INFOPLIST_FILE = "ChurchBell-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				PRODUCT_NAME = ChurchBell;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "6BC30777-4EE1-4D0E-B4AC-9E80D5F0DE96";
+				SDKROOT = iphoneos;
+				VALID_ARCHS = "armv6 armv7";
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = ChurchBell_Prefix.pch;
+				INFOPLIST_FILE = "ChurchBell-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				PRODUCT_NAME = ChurchBell;
+				SDKROOT = iphoneos;
+				VALID_ARCHS = "armv6 armv7";
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.0;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "ChurchBell" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "ChurchBell" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
